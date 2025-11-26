@@ -1,4 +1,4 @@
-# Social Media Trend Analysis API
+# Social Media Trend Analysis Backend
 
 ## Project Overview
 This project is a FastAPI-based backend for social media trend and engagement analysis. It supports hashtag tracking, comment sentiment analysis, user engagement reports, and more.
